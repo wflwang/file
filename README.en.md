@@ -22,19 +22,32 @@ This open-source repository serves as a download station for electronic componen
 | SaveDataSheet     | Storage chip documents, including Flash, EEPROM, SD/NAND and other storage device specifications |
 | SCH               | Customer-customized evaluation board schematics, including hardware design reference drawings for 2.4G remote control and motor control |
 
+## Quick Download
+| Document Name          | Download Link                                                                 |
+|------------------------|--------------------------------------------------------------------------------|
+| Weekly Work Details    | [Weekly Work Details.xlsx](https://gitee.com/wflwang/file/raw/master/weeklyRecord/%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E6%98%8E%E7%BB%86.xlsx) |
+| RGB Picture Tail Light Schematic | [RGB_picture_Tail.pdf](https://gitee.com/wflwang/file/raw/master/SCH/RGB_picture_Tail.pdf) |
+| DCT32B5805F05T20 IC Datasheet | [DCT32B5805F05T20 Specification.pdf](https://gitee.com/wflwang/file/raw/master/McuDataSheet/DCT32B5805F05T20%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
+
 ## Usage Guide
 ### How to Download Materials
-1. **Releases Download (Recommended)**:
-   - Go to the "Releases" page of the repository, select the corresponding version, and download the packaged data compression package
-   - Advantage: Version-controlled files, no redundancy, fast download speed
-2. **Direct Download**:
-   - Enter the corresponding directory, click the target file, and select the "Download" button to get a single file
-   - Suitable for scenarios where only a single document is needed
+1. **Quick Download (Recommended)**: Click the link in the "Quick Download" table to get the corresponding document directly;
+2. **Releases Download**: Go to the "Releases" page of the repository, select the corresponding version, and download the packaged data compression package;
+3. **Directory Download**: Enter the corresponding directory, click the target file, and select the "Download" button to get a single file.
 
 ### Notes
-1. All materials are for development reference only, do not use them for commercial infringement
-2. Materials will be updated continuously, it is recommended to Star the repository to get the latest content in time
-3. If the required chip data is missing, you can feedback via email, and it will be supplemented as soon as possible
+1. All materials are for development reference only, do not use them for commercial infringement;
+2. Materials will be updated continuously, it is recommended to Star the repository to get the latest content in time;
+3. If the required chip data is missing, you can feedback via email, and it will be supplemented as soon as possible.
+
+## License
+This project is licensed under the **Apache License 2.0**.
+### Core Terms Summary
+- ✅ **Free Use**: Personal and commercial use, modification and distribution of project content are permitted;
+- ✅ **Commercial Friendly**: Permitted for commercial purposes;
+- ⚠️ **Patent Protection**: Retains patent authorization and disclaimer clauses to protect developers' rights and interests;
+- 📌 **Copyright Retention**: Original copyright notice and license link must be retained when using.
+**Full License Text:** [LICENSE](LICENSE)
 
 ## Disclaimer
-All materials shared in this 
+All materials shared in this repository are
