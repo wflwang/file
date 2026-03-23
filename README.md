@@ -1,37 +1,40 @@
-# file
+# 文件资料下载站 (File Download Repository)
 
-#### 介绍
-发放的下载站
+## 作者信息 (Author)
+MaxwellWang | 软件工程师
+- 核心领域：2.4G无线遥控、电机控制（FOC/无刷电机）、消费类电子软硬件开发
+- 邮箱：[B5106D@Outlook.com](mailto:B5106D@Outlook.com)
+- 代码仓库：
+  - Gitee（国内访问）：[https://gitee.com/wflwang](https://gitee.com/wflwang)
+  - GitHub：[https://github.com/wflwang](https://github.com/wflwang)
 
-#### 软件架构
-软件架构说明
+## 仓库介绍 (Repository Introduction)
+本仓库是开源的电子元器件资料下载站，专注于整理和分享消费类电子开发所需的核心资料，覆盖MCU、驱动、电源、传感器、存储等全品类芯片手册，以及评估板原理图等工程文档，方便开发者快速获取开发所需资料。
 
+## 目录结构 (Directory Structure)
+| 目录名称          | 详细说明                                                                 |
+|-------------------|--------------------------------------------------------------------------|
+| DCTweeklyRecord   | 周工作记录归档，包含项目进度、技术难点解决、版本迭代记录等工作内容        |
+| McuDataSheet      | 微控制器（MCU）芯片资料，含规格书、数据手册、应用笔记、引脚定义等        |
+| DriverDataSheet   | 驱动芯片资料，覆盖电机驱动、电源驱动、接口驱动等各类驱动芯片手册          |
+| PowerDataSheet    | 电源管理芯片资料，含LDO、DC-DC、充电管理、电池保护等电源芯片文档        |
+| SensorDataSheet   | 传感器芯片资料，涵盖温湿度、加速度、气压、光学、触控等各类传感器手册      |
+| SaveDataSheet     | 存储芯片资料，包含Flash、EEPROM、SD/NAND等存储器件规格书                |
+| SCH               | 客户定制评估板原理图，含2.4G遥控、电机控制相关的硬件设计参考图纸        |
 
-#### 安装教程
+## 使用指南 (Usage Guide)
+### 资料下载方式
+1. **发行版下载（推荐）**：
+   - 进入仓库「发行版（Releases）」页面，选择对应版本，下载打包好的资料压缩包
+   - 优势：文件版本化管理，无冗余，下载速度快
+2. **直接下载**：
+   - 进入对应目录，点击目标文件，选择「下载」按钮获取单个文件
+   - 适合仅需单份资料的场景
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 注意事项
+1. 所有资料均为开发参考用途，请勿用于商业侵权行为
+2. 资料会持续更新，建议Star仓库以便及时获取最新内容
+3. 若缺少所需芯片资料，可通过邮箱反馈，会尽快补充
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 免责声明 (Disclaimer)
+本仓库分享的资料均来源于公开网络，仅作为技术交流和开发参考。若涉及版权问题，请联系作者删除相关文件。
