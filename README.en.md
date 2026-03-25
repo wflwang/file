@@ -23,7 +23,7 @@ This open-source repository serves as a download station for electronic componen
 | SCH               | Customer-customized evaluation board schematics, including hardware design reference drawings for 2.4G remote control and motor control |
 
 ## Quick Download
-[Click to go to full download page → Download.md](Download.md)
+[Click to go to full download page → DownLoad.md](Download.md)
 
 ### 👉 Important: Firmware Download Method
 **Right-click the link → Save link as to download the .hex file directly**
