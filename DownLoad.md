@@ -8,6 +8,7 @@
 | RGB图显尾灯原理图       | [RGB_picture_Tail.pdf](https://gitee.com/wflwang/file/raw/master/SCH/RGB_picture_Tail.pdf) |
 | DCT32B5805F05T20 IC资料 | [DCT32B5805F05T20规格说明书.pdf](https://gitee.com/wflwang/file/raw/master/McuDataSheet/DCT32B5805F05T20%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
 | GameStick RX USB | [GameStickRXUSB.hex](https://gitee.com/wflwang/file/raw/master/BuildFile/GameStickRXUSB.hex) |
+| ClimbingCarV3RX | [RF2G4ClimbingCarV3.PDK](https://gitee.com/wflwang/file/raw/master/BuildFile/RF2G4ClimbingCarV3.PDK) |
 
 ### 👉 固件下载说明
 **HEX 文件请使用 【右键 → 链接另存为】 保存**
