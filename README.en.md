@@ -5,8 +5,8 @@ MaxwellWang | Software Engineer
 - Core Expertise: 2.4G wireless remote control, motor control (FOC/brushless motor), consumer electronics hardware & software development
 - Email: [B5106D@Outlook.com](mailto:B5106D@Outlook.com)
 - Code Repositories:
-  - Gitee (For China Access): [https://gitee.com/wflwang](https://gitee.com/wflwang)
-  - GitHub: [https://github.com/wflwang](https://github.com/wflwang)
+  - Gitee (For China Access): [https://gitee.com/wflwang](https://gitee.com/wflwang/file)
+  - GitHub: [https://github.com/wflwang](https://github.com/wflwang/file)
 
 ## Repository Introduction
 This open-source repository serves as a download station for electronic component documentation, focusing on organizing and sharing core materials required for consumer electronics development. It covers datasheets of MCU, driver, power management, sensor, storage chips, as well as engineering documents such as evaluation board schematics, enabling developers to quickly access the resources needed for development.
@@ -23,11 +23,11 @@ This open-source repository serves as a download station for electronic componen
 | SCH               | Customer-customized evaluation board schematics, including hardware design reference drawings for 2.4G remote control and motor control |
 
 ## Quick Download
-| Document Name          | Download Link                                                                 |
-|------------------------|--------------------------------------------------------------------------------|
-| Weekly Work Details    | [Weekly Work Details.xlsx](https://gitee.com/wflwang/file/raw/master/weeklyRecord/%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E6%98%8E%E7%BB%86.xlsx) |
-| RGB Picture Tail Light Schematic | [RGB_picture_Tail.pdf](https://gitee.com/wflwang/file/raw/master/SCH/RGB_picture_Tail.pdf) |
-| DCT32B5805F05T20 IC Datasheet | [DCT32B5805F05T20 Specification.pdf](https://gitee.com/wflwang/file/raw/master/McuDataSheet/DCT32B5805F05T20%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
+[Click to go to full download page → Download.md](Download.md)
+
+### 👉 Important: Firmware Download Method
+**Right-click the link → Save link as to download the .hex file directly**
+(Left-click will open preview; right-click to save)
 
 ## Usage Guide
 ### How to Download Materials

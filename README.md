@@ -5,8 +5,8 @@ MaxwellWang | 软件工程师
 - 核心领域：2.4G无线遥控、电机控制（FOC/无刷电机）、消费类电子软硬件开发
 - 邮箱：[B5106D@Outlook.com](mailto:B5106D@Outlook.com)
 - 代码仓库：
-  - Gitee（国内访问）：[https://gitee.com/wflwang](https://gitee.com/wflwang)
-  - GitHub：[https://github.com/wflwang](https://github.com/wflwang)
+  - Gitee（国内访问）：[https://gitee.com/wflwang](https://gitee.com/wflwang/file)
+  - GitHub：[https://github.com/wflwang](https://github.com/wflwang/file)
 
 ## 仓库介绍 (Repository Introduction)
 本仓库是开源的电子元器件资料下载站，专注于整理和分享消费类电子开发所需的核心资料，覆盖MCU、驱动、电源、传感器、存储等全品类芯片手册，以及评估板原理图等工程文档，方便开发者快速获取开发所需资料。
@@ -24,12 +24,11 @@ MaxwellWang | 软件工程师
 | BuildFile         | 客户定制的烧录程序,测试版本                                                  |
 
 ## 快速下载 (Quick Download)
-| 资料名称                | 下载链接                                                                 |
-|-------------------------|--------------------------------------------------------------------------|
-| 每周工作明细            | [每周工作明细.xlsx](https://gitee.com/wflwang/file/raw/master/weeklyRecord/%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E6%98%8E%E7%BB%86.xlsx) |
-| RGB图显尾灯原理图       | [RGB_picture_Tail.pdf](https://gitee.com/wflwang/file/raw/master/SCH/RGB_picture_Tail.pdf) |
-| DCT32B5805F05T20 IC资料 | [DCT32B5805F05T20规格说明书.pdf](https://gitee.com/wflwang/file/raw/master/McuDataSheet/DCT32B5805F05T20%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
-| GameStick RX USB | [GameStickRXUSB.hex](https://gitee.com/wflwang/file/raw/master/BuildFile/GameStickRXUSB.hex?download=1) |
+[点击跳转到完整下载页面 → Download.md](Download.md)
+
+### 👉 固件下载方法（重要）
+**请右键点击链接 → 选择【链接另存为】直接保存 .hex 文件**
+（左键会打开预览，右键才能直接下载）
 
 ## 使用指南 (Usage Guide)
 ### 资料下载方式
