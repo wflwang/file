@@ -21,6 +21,7 @@ MaxwellWang | 软件工程师
 | SensorDataSheet   | 传感器芯片资料，涵盖温湿度、加速度、气压、光学、触控等各类传感器手册      |
 | SaveDataSheet     | 存储芯片资料，包含Flash、EEPROM、SD/NAND等存储器件规格书                |
 | SCH               | 客户定制评估板原理图，含2.4G遥控、电机控制相关的硬件设计参考图纸        |
+| BuildFile         | 客户定制的烧录程序,测试版本                                                  |
 
 ## 快速下载 (Quick Download)
 | 资料名称                | 下载链接                                                                 |
@@ -28,6 +29,7 @@ MaxwellWang | 软件工程师
 | 每周工作明细            | [每周工作明细.xlsx](https://gitee.com/wflwang/file/raw/master/weeklyRecord/%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E6%98%8E%E7%BB%86.xlsx) |
 | RGB图显尾灯原理图       | [RGB_picture_Tail.pdf](https://gitee.com/wflwang/file/raw/master/SCH/RGB_picture_Tail.pdf) |
 | DCT32B5805F05T20 IC资料 | [DCT32B5805F05T20规格说明书.pdf](https://gitee.com/wflwang/file/raw/master/McuDataSheet/DCT32B5805F05T20%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
+| GameStick RX USB | [GameStickRXUSB.pdf](https://gitee.com/wflwang/file/raw/master/BuildFile/GameStickRXUSB.hex) |
 
 ## 使用指南 (Usage Guide)
 ### 资料下载方式
