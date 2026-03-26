@@ -24,14 +24,14 @@ MaxwellWang | 软件工程师
 | BuildFile         | 客户定制的烧录程序,测试版本                                                  |
 
 ## 快速下载 (Quick Download)
-[点击跳转到完整下载页面 → ClimbingCarV3test.md](ClimbingCarV3test.md)
+[点击跳转到测试模式说明页面 → DownLoad.md](DownLoad.md)
 
 ### 👉 固件下载方法（重要）
 **请右键点击链接 → 选择【链接另存为】直接保存 .hex 文件**
 （左键会打开预览，右键才能直接下载）
 
 ## 爬墙车3代测试模式说明
-[点击跳转到测试模式说明页面 → DownLoad.md](DownLoad.md)
+[点击跳转到完整下载页面 → ClimbingCarV3test.md](ClimbingCarV3test.md)
 
 ## 使用指南 (Usage Guide)
 ### 资料下载方式
