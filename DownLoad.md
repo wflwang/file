@@ -9,6 +9,8 @@
 | DCT32B5805F05T20 IC资料 | [DCT32B5805F05T20规格说明书.pdf](https://gitee.com/wflwang/file/raw/master/McuDataSheet/DCT32B5805F05T20%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) |
 | GameStick RX USB | [GameStickRXUSB.hex](https://gitee.com/wflwang/file/raw/master/BuildFile/GameStickRXUSB.zip) |
 | ClimbingCarV3RX | [RF2G4ClimbingCarV3.PDK](https://gitee.com/wflwang/file/raw/master/BuildFile/RF2G4ClimbingCarV3.PDK) |
+| 爬墙车3代生产程序(私) | [爬墙车3代releaseV3.0.2](https://gitee.com/szdctek/RF2g4climbing/raw/v3.0.2/build.zip) |
+| 4按键遥控器发射长按发射保持码(私) | [4按键遥控器8316](https://gitee.com/szdctek/remote_ir_4button/raw/master/build%2FTX_keeplongpress_8316.ccs) | 
 
 ### 👉 固件下载说明
 **HEX 文件请使用 【右键 → 链接另存为】 保存**
