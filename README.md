@@ -5,8 +5,8 @@ MaxwellWang | 软件工程师
 - 核心领域：2.4G无线遥控、电机控制（FOC/无刷电机）、消费类电子软硬件开发
 - 邮箱：[B5106D@Outlook.com](mailto:B5106D@Outlook.com)
 - 代码仓库：
-  - Gitee（国内访问）：[https://gitee.com/wflwang](https://gitee.com/wflwang/file)
-  - GitHub：[https://github.com/wflwang](https://github.com/wflwang/file)
+  - Gitee（国内访问）：[https://gitee.com/wflwang](https://gitee.com/wflwang)
+  - GitHub：[https://github.com/wflwang](https://github.com/wflwang)
 
 ## 仓库介绍 (Repository Introduction)
 本仓库是开源的电子元器件资料下载站，专注于整理和分享消费类电子开发所需的核心资料，覆盖MCU、驱动、电源、传感器、存储等全品类芯片手册，以及评估板原理图等工程文档，方便开发者快速获取开发所需资料。
@@ -21,37 +21,23 @@ MaxwellWang | 软件工程师
 | SensorDataSheet   | 传感器芯片资料，涵盖温湿度、加速度、气压、光学、触控等各类传感器手册      |
 | SaveDataSheet     | 存储芯片资料，包含Flash、EEPROM、SD/NAND等存储器件规格书                |
 | SCH               | 客户定制评估板原理图，含2.4G遥控、电机控制相关的硬件设计参考图纸        |
-| BuildFile         | 客户定制的烧录程序,测试版本                                                  |
-
-## 快速下载 (Quick Download)
-[点击跳转到测试模式说明页面 → DownLoad.md](DownLoad.md)
-
-### 👉 固件下载方法（重要）
-**请右键点击链接 → 选择【链接另存为】直接保存 .hex 文件**
-（左键会打开预览，右键才能直接下载）
-
-## 爬墙车3代测试模式说明
-[点击跳转到完整下载页面 → ClimbingCarV3test.md](ClimbingCarV3test.md)
 
 ## 使用指南 (Usage Guide)
 ### 资料下载方式
-1. **快速下载（推荐）**：直接点击「快速下载」表格中的链接，一键获取对应资料；
-2. **发行版下载**：进入仓库「发行版（Releases）」页面，选择对应版本，下载打包好的资料压缩包；
-3. **目录下载**：进入对应目录，点击目标文件，选择「下载」按钮获取单个文件。
+1. **发行版下载（推荐）**：
+   - 进入仓库「发行版（Releases）」页面，选择对应版本，下载打包好的资料压缩包
+   - 优势：文件版本化管理，无冗余，下载速度快
+2. **直接下载**：
+   - 进入对应目录，点击目标文件，选择「下载」按钮获取单个文件
+   - 适合仅需单份资料的场景
 
 ### 注意事项
-1. 所有资料均为开发参考用途，请勿用于商业侵权行为；
-2. 资料会持续更新，建议Star仓库以便及时获取最新内容；
-3. 若缺少所需芯片资料，可通过邮箱反馈，会尽快补充。
+1. 所有资料均为开发参考用途，请勿用于商业侵权行为
+2. 资料会持续更新，建议Star仓库以便及时获取最新内容
+3. 若缺少所需芯片资料，可通过邮箱反馈，会尽快补充
 
-## 开源协议 (License)
-本项目采用 **Apache License 2.0** 开源协议。
-### 核心条款摘要
-- ✅ **自由使用**：允许个人和企业免费使用、修改、分发本项目内容；
-- ✅ **商业友好**：允许用于商业目的；
-- ⚠️ **专利保护**：保留专利授权与免责条款，保护开发者权益；
-- 📌 **保留版权**：使用时需保留原始版权声明与协议链接。
-**Full License Text:** [LICENSE](LICENSE)
+### 下载链接
+周工作记录 [https://gitee.com/wflwang/file/raw/master/weeklyRecord/%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E6%98%8E%E7%BB%86.xlsx](https://gitee.com/wflwang/file/raw/master/weeklyRecord/%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E6%98%8E%E7%BB%86.xlsx)
 
 ## 免责声明 (Disclaimer)
 本仓库分享的资料均来源于公开网络，仅作为技术交流和开发参考。若涉及版权问题，请联系作者删除相关文件。
