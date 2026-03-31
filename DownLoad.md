@@ -12,6 +12,7 @@
 | 爬墙车3代生产程序(私) | [爬墙车3代releaseV3.0.2](https://gitee.com/szdctek/RF2g4climbing/raw/v3.0.2/build.zip) |  [3代爬墙车烧录说明](https://e.gitee.com/szdctek/repos/szdctek/RF2g4climbing/blob/v3.0.2/release.md) |
 | 4按键遥控器发射长按发射保持码(私) | [4按键遥控器8316](https://gitee.com/szdctek/remote_ir_4button/raw/master/build%2FTX_keeplongpress_8316.ccs) | |
 | FT009RC(私)        |    [FT009RC](https://gitee.com/szdctek/FT009RC/blob/master/release.md#https://gitee.com/szdctek/FT009RC/raw/master/build.zip) | [烧录说明](https://gitee.com/szdctek/FT009RC/blob/master/release.md) |
+| 自行车灯触摸版本(私)        |    [自行车灯触摸版本](https://gitee.com/szdctek/rf2g4carlamp/raw/1v3/buildtouch1v3.zip) | [烧录说明](https://e.gitee.com/szdctek/repos/szdctek/rf2g4carlamp/blob/1v3/release.md) |
 
 ### 👉 固件下载说明
 **HEX 文件请使用 【右键 → 链接另存为】 保存**
