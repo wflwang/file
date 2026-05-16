@@ -8,11 +8,12 @@
 | RGB图显尾灯原理图       | [RGB_picture_Tail.pdf](https://gitee.com/wflwang/file/raw/master/SCH/RGB_picture_Tail.pdf) |  |
 | DCT32B5805F05T20 IC资料 | [DCT32B5805F05T20规格说明书.pdf](https://gitee.com/wflwang/file/raw/master/McuDataSheet/DCT32B5805F05T20%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf) | |
 | GameStick RX USB | [GameStickRXUSB.hex](https://gitee.com/wflwang/file/raw/master/BuildFile/GameStickRXUSB.zip) | |
-| ClimbingCarV3RX | [RF2G4ClimbingCarV3.PDK](https://gitee.com/wflwang/file/raw/master/BuildFile/RF2G4ClimbingCarV3.PDK) | |
+| ClimbingCarV3RX | [RF2G4ClimbingCarV3.PDK](BuildFile/RF2G4ClimbingCarV3_Finc5pro.PDK) | |
 | 爬墙车3代生产程序(私) | [爬墙车3代releaseV3.0.2](https://gitee.com/szdctek/RF2g4climbing/raw/v3.0.2/build.zip) |  [3代爬墙车烧录说明](https://e.gitee.com/szdctek/repos/szdctek/RF2g4climbing/blob/v3.0.2/release.md) |
 | 4按键遥控器发射长按发射保持码(私) | [4按键遥控器8316](https://gitee.com/szdctek/remote_ir_4button/raw/master/build%2FTX_keeplongpress_8316.ccs) | |
 | FT009RC(私)        |    [FT009RC](https://gitee.com/szdctek/FT009RC/blob/master/release.md#https://gitee.com/szdctek/FT009RC/raw/master/build.zip) | [烧录说明](https://gitee.com/szdctek/FT009RC/blob/master/release.md) |
 | 自行车灯触摸版本(私)        |    [自行车灯触摸版本](https://gitee.com/szdctek/rf2g4carlamp/raw/1v3/buildtouch1v3.zip) | [烧录说明](https://e.gitee.com/szdctek/repos/szdctek/rf2g4carlamp/blob/1v3/release.md) |
+| 自行车灯触摸版本限制版本新        |    [限制版本](https://gitee.com/szdctek/rf2g4carlamp/raw/1v3/buildtouch1v3.zip) | [烧录说明](https://e.gitee.com/szdctek/repos/szdctek/rf2g4carlamp/blob/1v3/release.md) |
 | 6088小流量250ml无清洗模式(私) | [250ml无清洗模式](https://gitee.com/dctek/liquid6088/raw/v1.0.2-6088%E5%B0%8F%E6%B5%81%E9%87%8F250ml%E6%97%A0%E6%B8%85%E6%B4%97%E6%A8%A1%E5%BC%8FCS_D0752E/software/liquid_simple/liquid_simple.bin) | IC:8053E SOP14 CS:D0752E |
 | 6088小流量250ml有清洗模式(私) | [250ml有清洗模式](https://gitee.com/dctek/liquid6088/raw/v1.0.2-6088%E5%B0%8F%E6%B5%81%E9%87%8F250ml%E6%9C%89%E6%B8%85%E6%B4%97%E6%A8%A1%E5%BC%8FCS_D64D1A/software/liquid_simple/liquid_simple.bin) | IC:8053E SOP14 CS:D64D1A |
 
